@@ -65,6 +65,7 @@ h4{
 #collapsable-nav{
 	border:1px solid black;
 	padding-left: 0px;
+	border-bottom-width: 0;
 
 }
 
