@@ -61,6 +61,12 @@ h4{
 	width: 87%;
 	float:left
 }
+	
+#collapsable-nav{
+	border:1px solid black;
+	padding-left: 0px;
+
+}
 
 
 
